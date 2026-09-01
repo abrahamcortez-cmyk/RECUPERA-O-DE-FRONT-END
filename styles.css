@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.racingwheelbrasil.com.br%2Fprodutos%2Fcockpit-playseat-f1-racing-f1-seat%2F%3Fsrsltid%3DAfmBOoqEyNqyMtLi_RzsI9U_BI3gRYQSv0GfnhagcpZy-mf2SEm96Eu4&ved=0CBYQjRxqFwoTCNDH69qizZYDFQAAAAAdAAAAABA3&opi=89978449);
+    width: auto;
+}
+h1{
+    background-color: brown;
+    color: aqua;
+    font-size: 50px;
+    width: auto;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    background-color: chartreuse;
+    text-align: center;
+}
+li{
+    color: beige;
+    text-align: center;
+}
+a{
+    color: blue;
+    text-align: center;
+}
